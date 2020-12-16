@@ -1,0 +1,7 @@
+Debug
+/Debug
+*.vcx*
+*.sln
+.vs
+ms1.cpp
+ms2.cpp
